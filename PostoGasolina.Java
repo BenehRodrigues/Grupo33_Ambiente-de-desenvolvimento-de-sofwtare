@@ -18,7 +18,7 @@ public class PostoGasolina {
         System.out.println("Moto!");
         minhaMoto.ligar();
         minhaMoto.ligarSeta();
-        minhaMoto.desligarSetar();
+        minhaMoto.desligarSeta();
 
         System.out.println("Moto Esportiva!");
         minhaMotoEsportiva.ligar();
