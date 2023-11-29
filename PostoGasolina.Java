@@ -1,5 +1,5 @@
 public class PostoGasolina {
     public static void main(String[] args) {
-        Abastecer ();
+        Carro meuCarro = new Carro("Toyota", "Corolla Cross", 2024)
     }
 }
