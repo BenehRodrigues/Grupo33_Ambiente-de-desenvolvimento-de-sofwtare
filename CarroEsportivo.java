@@ -13,6 +13,5 @@ public void AbrirTurbina(){
   @Override
   public String toString() {
     return super.toString();
-  }
-
+ }
 }
