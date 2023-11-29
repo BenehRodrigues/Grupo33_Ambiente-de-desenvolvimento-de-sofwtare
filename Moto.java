@@ -20,7 +20,7 @@ public class Moto {
         System.out.println("Seta ligada");
     }
 
-    public void desligarSetar() {
+    public void desligarSeta() {
         System.out.println("Seta desligada");
     }
 
